@@ -1,0 +1,27 @@
+{
+  "name": "@mycro-ui/icons",
+  "version": "1.0.0",
+  "description": "Light-weight, beautiful icons crafted with  :sparkling_heart:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycro-ui/mycro-icons.git"
+  },
+  "keywords": [
+    "light-weight",
+    "icons",
+    "beautiful"
+  ],
+  "author": "HassanBahati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mycro-ui/mycro-icons/issues"
+  },
+  "homepage": "https://github.com/mycro-ui/mycro-icons#readme",
+  "dependencies": {
+    "@mycro-ui/react": "^1.0.0"
+  }
+}
